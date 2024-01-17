@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 12 15:09:32 CST 2024","Fri Jan 12 15:09:32 CST 2024","0","testcases","test_script_4_3_002","TestCase2","","","test_2",""
+"passed","Fri Jan 12 15:09:32 CST 2024","Fri Jan 12 15:09:32 CST 2024","0","testcases","test_script_4_3_002","TestCase2","","","test_1",""
+"passed","Fri Jan 12 15:09:29 CST 2024","Fri Jan 12 15:09:32 CST 2024","2993","testcases","test_login","TestCase","","","test_login_out1",""

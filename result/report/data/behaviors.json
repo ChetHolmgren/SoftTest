@@ -1,0 +1,64 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块测试",
+    "children" : [ {
+      "name" : "成功登录退出",
+      "children" : [ {
+        "name" : "test_login_out1",
+        "uid" : "e8e118a22bd360a2",
+        "parentUid" : "3d37de9ff964cacd6c1ea00ded64ade2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705043369925,
+          "stop" : 1705043372918,
+          "duration" : 2993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3d37de9ff964cacd6c1ea00ded64ade2"
+    } ],
+    "uid" : "6f1f9a24b7a97941b3322529eb856ad8"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功的测试用例",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "fc67713415c95559",
+        "parentUid" : "256856448b49fd98c91fb491f0dbc60d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705043372921,
+          "stop" : 1705043372921,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "256856448b49fd98c91fb491f0dbc60d"
+    }, {
+      "name" : "登录失败的测试用例",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "184deefc2b95572b",
+        "parentUid" : "d48a9094a9cf07cfb54df9c6cb8ca67f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705043372923,
+          "stop" : 1705043372923,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d48a9094a9cf07cfb54df9c6cb8ca67f"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}
